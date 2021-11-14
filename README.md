@@ -10,6 +10,9 @@ HTML, CSS, bootstrap
 # Project Description
 To develop a full fledged website for a tuition agency called Smart Tuition Pte Ltd.
 
+# Design Report
+[powerpoint_report_final_group_project_rw_zy_marcus_amari.pdf](https://github.com/ChenZengYao/CS2024-SmartTuition/files/7534131/powerpoint_report_final_group_project_rw_zy_marcus_amari.pdf)
+
 # Goals:
 1. To improve new students to sign rate within the next 3 months by 20%.
 2. To improve the brand to become thought leaders and relationship with parents.
@@ -29,3 +32,4 @@ To develop a full fledged website for a tuition agency called Smart Tuition Pte 
 1. Plan to develop the website by forming goals with Design thinking Process in mind.
 2. Research on your target audiences or persona behavior.
 3. Develop a user mapping journey process to develop the user sitemap and navigation.
+
